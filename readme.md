@@ -1,5 +1,5 @@
 # ESP32 Smart WiFi Control Dashboard
-
+![Project Banner](assets/t1.jpg)
 ESP32 Smart WiFi Control Dashboard เป็นโปรเจกต์ IoT สำหรับควบคุมอุปกรณ์ผ่าน WiFi โดยใช้ ESP32  
 รองรับการตั้งค่า WiFi ผ่านหน้าเว็บ, ควบคุม LED หลายดวง, และแสดงผลตัวเลขบน MAX7219 ผ่าน Web Dashboard
 
